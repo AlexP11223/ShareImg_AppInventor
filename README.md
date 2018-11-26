@@ -7,3 +7,5 @@ APK for Android can be downloaded in [Releases](https://github.com/AlexP11223/Sh
 ![](https://i.imgur.com/qcUZatC.png?1)
 
 ![](https://i.imgur.com/8jFjtKL.png)
+
+![](https://i.imgur.com/pSgFqUr.png)
